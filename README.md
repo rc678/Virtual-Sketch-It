@@ -1,3 +1,3 @@
 # Virtual-Sketch-It
 
-Sketch your favorite drawings using you hand. 
+Sketch your favorite drawings using your hand! 
